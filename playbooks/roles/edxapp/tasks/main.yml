@@ -48,7 +48,7 @@
 
 # Check out edx-platform repo to $app_base_dir
 - name: install git and its recommends
-  apt: pkg=git state=present install_recommends=yes 
+  apt: pkg=git state=present install_recommends=yes
   tags:
   - lms
   - cms

@@ -516,6 +516,7 @@ EDXAPP_ENABLE_MKTG_SITE: false
 EDXAPP_MKTG_URL_LINK_MAP:
   BLOG: 'None'
   DONATE: 'None'
+  TOS_AND_HONOR: 'tos_and_honor'
 EDXAPP_MKTG_URLS: {}
 EDXAPP_SUPPORT_SITE_LINK: 'https://stanfordonline.zendesk.com/hc/en-us'
 EDXAPP_ACTIVATION_EMAIL_SUPPORT_LINK: ''
@@ -656,7 +657,7 @@ EDXAPP_REGISTRATION_EXTRA_FIELDS:
   mailing_address: "hidden"
   goals: "optional"
   honor_code: "required"
-  terms_of_service: "required"
+  terms_of_service: "hidden"
   city: "hidden"
   country: "required"
 

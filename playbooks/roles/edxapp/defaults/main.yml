@@ -516,6 +516,7 @@ EDXAPP_ENABLE_MKTG_SITE: false
 EDXAPP_MKTG_URL_LINK_MAP:
   BLOG: 'None'
   DONATE: 'None'
+  FAQ: 'https://stanfordonline.zendesk.com/hc/en-us'
   TOS_AND_HONOR: 'tos_and_honor'
 EDXAPP_MKTG_URLS: {}
 EDXAPP_SUPPORT_SITE_LINK: 'https://stanfordonline.zendesk.com/hc/en-us'
